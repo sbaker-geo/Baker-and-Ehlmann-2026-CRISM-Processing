@@ -5,3 +5,5 @@ This is Python code associated with the paper "Aluminum phyllosilicate and jaros
 This folder contains 7 Python files. These files are used for applying Gaussian fitting to automatically identify and map minerals in CRISM MTRDR data.
 
 The file "Identify_and_map_minerals.py" is the main script, and other files contain functions that are imported into that script. These functions are used to create ratioed and filtered image cubes, locate the blandest pixels used for that ratioing, and identify Al-phyllosilicate, hydrated silica, jarosite, Fe/Mg-phyllosilicate, and Fe oxide.
+
+To cite this code, use the DOI: https://doi.org/10.5281/zenodo.21089982
